@@ -1,10 +1,12 @@
-# Atividade pratica em JavaScrip
+# Atividade prática em JavaScript
 Coleções Chaveadas
 ---
 
 Atividade 1:
 
-Criar uma função que retorna o nome dos membros de um Map que tem o papel 'ADMIN' no sistema.
+Criar uma funçao que retorna o nome dos membros de um Map que tem o papel 'ADMIN' no sistema.
+
+
 ---
 Atividade 2: 
 
